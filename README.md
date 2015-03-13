@@ -19,7 +19,7 @@ compile project(':StackBlur')
 
 ```
 
-4. be happe
+4. enjoy
 ```JAVA
 int radio = 5;
 BitmapFactory mImage = BitmapFactory.decodeResource(getResources(), R.drawable.myImage);
